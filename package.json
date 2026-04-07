@@ -1,5 +1,5 @@
 {
-  "name": "ai-next-config",
+  "name": "@lxgicstudios/ai-next-config",
   "version": "1.0.0",
   "description": "AI-powered Next.js config generator - optimized next.config.js with GPT",
   "main": "dist/index.js",

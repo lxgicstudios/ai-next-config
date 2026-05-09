@@ -15,34 +15,41 @@
     "build": "tsc"
   },
   "keywords": [
+    "2025-standards",
     "ai",
+    "ai-2025",
+    "ai-powered",
     "anthropic",
-    "claude",
-    "llm",
-    "openai",
-    "gpt",
-    "nextjs",
-    "next-config",
-    "react",
-    "vercel",
-    "ssr",
-    "developer-tools",
-    "cli",
     "automation",
-    "typescript",
-    "nodejs",
+    "claude",
+    "cli",
+    "developer-productivity",
+    "developer-tools",
+    "discoverability",
     "framework",
-    "web"
+    "generative-ai",
+    "gpt",
+    "llm",
+    "llm-optimized",
+    "modern-seo",
+    "next.js",
+    "optimization",
+    "performance",
+    "performance-optimization",
+    "react",
+    "seo",
+    "seo-2026",
+    "typescript"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
   "homepage": "https://github.com/LXGIC-Studios/ai-next-config#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-next-config.git"
+    "url": "https://github.com/LXGIC-Studios/ai-next-config"
   },
   "bugs": {
-    "url": "https://github.com/lxgicstudios/ai-next-config/issues"
+    "url": "https://github.com/LXGIC-Studios/ai-next-config/issues"
   },
   "funding": {
     "type": "github",

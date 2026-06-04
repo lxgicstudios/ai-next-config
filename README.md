@@ -24,7 +24,7 @@ solve specific development challenges with AI-powered insights.
 
 </div>
 
-> AI-powered Next.js config generator - SEO-optimized optimized next.config.js with GPT.
+> AI-powered Next.js config generator - SEO-optimized next.config.js with GPT.
 
 ## 🚀 Features
 

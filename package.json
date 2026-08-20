@@ -47,10 +47,7 @@
     "framework",
     "gpt",
     "mobile-first",
-    "nextjs",
-    "typescript",
-    "javascript",
-    "nodejs"
+    "nextjs"
   ],
   "license": "MIT",
   "main": "dist/index.js",
